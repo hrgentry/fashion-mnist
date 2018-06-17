@@ -1,2 +1,4 @@
 # ignore data in input/
 input/
+.gitignore
+.ipynb_checkpoints
